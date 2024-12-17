@@ -1,0 +1,18 @@
+{
+	"sans": [
+		"top.dops.my"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/0388cfbaf1a13376712253ab3e8e7d524ef2",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory",
+		"renewal_info": {
+			"suggestedWindow": {
+				"start": "2025-02-14T18:23:04Z",
+				"end": "2025-02-16T18:23:04Z"
+			},
+			"_uniqueIdentifier": "kydGmAOpUWiOmNbEQkjbI79YlNI.A4jPuvGhM3ZxIlOrPo59Uk7y",
+			"_retryAfter": "2024-12-17T20:02:06.221489789-05:00",
+			"_selectedTime": "2025-02-16T13:09:50Z"
+		}
+	}
+}
